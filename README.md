@@ -4,7 +4,7 @@ The remote shell (rsh) is a command line computer program that can execute shell
 
 ## Instalação
 
-Toda a instalação é feita como root
+Toda a instalação é feita como **root**
 
 ### Debian
 
